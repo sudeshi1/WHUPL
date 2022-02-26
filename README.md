@@ -1,5 +1,5 @@
-# Project 4: Used Car Price Predictor
+# Used Car Price Predictor
 
-## Group Name: WHUPL
+## Team WHUPL: Arnold Wamulanga, Ellis Purwanto, Ryan Hulett, Shreya Udeshi, Thomas Lawless
 
-## Team Members: 
+## Background
