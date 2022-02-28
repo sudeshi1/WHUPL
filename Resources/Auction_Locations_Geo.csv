@@ -1,0 +1,82 @@
+﻿auction_code,name,region,address,city,state,zip,country,latitude,longitude
+EDMO,Manheim Edmonton,Canada,12866 153 St NW,Edmonton,AB,T5V 1A9,CAN,53.55014,-113.469
+HLFX,Manheim Halifax,Canada,376 Sackville Dr,Lower Sackville,NS,B4C 2R8,CAN,44.76307,-63.6758
+MTRL,Manheim Montreal,Canada,715 Rue Dubois,Saint-Eustache,QC,J7P 3W1,CAN,45.565,-73.9055
+TAA,Manheim Toronto,Canada,8277 Lawson Rd,Milton,ON,L9T 5C7,CAN,43.54348,-79.8848
+CANM,Manheim Vancouver,Canada,"Suite 400, 628 6th Ave",New Westminster,BC,V3M 6Z1,CAN,49.20678,-122.911
+AREN,Manheim Arena Illinois,Central Region,200 West Old Chicago Dr,Bolingbrook,IL,60440,USA,41.6805,-88.0702
+GCAA,Manheim Chicago,Central Region,20401 Cox Ave,Matteson,IL,60443,USA,41.51906,-87.7842
+DALA,Manheim Dallas,Central Region,5333 West Kiest Blvd,Dallas,TX,75236,USA,32.70838,-96.9132
+DFWA,Manheim Dallas-Fort Worth,Central Region,12101 Trinity Boulevard,Fort Worth,TX,76040,USA,32.81658,-97.1061
+DAA,Manheim Denver,Central Region,17500 East 31st Ave,Aurora,CO,80011,USA,39.7588,-104.824
+BIGH,Manheim Houston,Central Region,"14450 West Rd, Westland",Houston,TX,77041,USA,29.8586,-95.5808
+MMAA,Manheim Milwaukee,Central Region,561 South Highway 41,Caledonia,WI,53108,USA,43.023,-87.9177
+RAA,Manheim Riverside,Central Region,6446 Fremont St,Riverside,CA,92504,USA,33.95541,-117.437
+SAAA,Manheim San Antonio,Central Region,1500 Ackerman Rd,San Antonio,TX,78219,USA,29.44347,-98.3789
+SCAA,Manheim Southern Cal,Central Region,10700 Beech Ave,Fontana,CA,92335,USA,34.05715,-117.472
+LHST,Manheim South Houston,Central Region,9605 Glaveston Rd,Houston,TX,77034,USA,29.6195,-95.1915
+THAA,Manheim Texas Hobby,Central Region,800 Brisbane Rd,Houston,TX,77061,USA,29.6378,-95.3536
+WSTX,Manheim West Texas,Central Region,614 CR 7200,Lubbock,TX,28027,USA,35.4069,-80.686
+AAA,Manheim Atlanta,East Region,4900 Buffington Rd,Red Oak,GA,30272,USA,33.6216,-84.4994
+BWAE,Manheim Baltimore - Washington,East Region,7120 Dorsey Run Rd,Elkridge,MD,21075,USA,39.17603,-76.7583
+DETA,Manheim Detroit,East Region,600 Will Carleton Rd,Taylor,MI,48180,USA,42.094,-83.3475
+FAA,Manheim Fredericksburg,East Region,4907 Jefferson Davis High,Fredericksburg,VA,22408,USA,38.2203,-77.4437
+AAAW,Manheim Georgia,East Region,7205 Campbellton Rd,Atlanta,GA,30331,USA,33.693,-84.6205
+NASH,Manheim Nashville,East Region,8400 Eastgate Blvd,Mt Juliet,TN,37122,USA,36.1855,-86.4411
+NADE,Manheim New Jersey,East Region,3328 Route 206,Bordentown,NJ,8505,USA,39.9891,-74.5936
+NAA,Manheim New York,East Region,18 Route 17K,Newburgh,NY,12550,USA,41.5396,-74.0572
+MAA,Manheim Pennsylvania,East Region,1190 Lancaster Rd,Manheim,PA,17545,USA,40.14011,-76.3829
+HATA,Manheim Philadelphia,East Region,2280 Bethlehem Pike,Hatfield,PA,19440,USA,40.29637,-75.2807
+PRAA,Caribbean Sbasta De Auto,Florida Region,Carretera 865,Toa Baja,PR,949,USA,18.4307,-66.2128
+GOAA,Manheim Central Florida,Florida Region,9800 Bachman Rd,Orlando,FL,32824,USA,28.42468,-81.3934
+DADE,Manheim Daytona Beach,Florida Region,1305 Indian Lake Rd,Daytona Beach,FL,32120,USA,29.14265,-81.1417
+LMAA,Manheim Fort Lauderdale,Florida Region,5353 South State Rd 7,Davie,FL,33314,USA,26.05972,-80.2138
+SWFL,Manheim Fort Myers,Florida Region,2100 Rockfill Rd,Fort Myers,FL,33916,USA,26.64006,-81.8307
+JAX,Manheim Jacksonville,Florida Region,10817 New Kings Rd,Jacksonville,FL,32219,USA,30.43239,-81.7571
+LAA,Manheim Lakeland,Florida Region,Interstate 4 & Highway 33,Lakeland,FL,33809,USA,27.0474,-82.2654
+FAAO,Manheim Orlando,Florida Region,600 West Highway 50,Ocoee,FL,34761,USA,28.5447,-81.3886
+WPBA,Manheim Palm Beach,Florida Region,600 Sansbury Way,West Palm Beach,FL,33411,USA,26.72,-80.1932
+PCAA,Manheim Pensacola,Florida Region,401 West Burgess Rd,Pensacola,FL,32503,USA,30.49643,-87.2608
+SPAA,Manheim St Pete,Florida Region,14950 Roosevelt Boulevard,Clearwater,FL,33762,USA,27.90986,-82.7006
+TBAA,Manheim Tampa,Florida Region,401 South 50th St,Tampa,FL,33619,USA,27.9485,-82.405
+SONB,Manheim Birmingham,Midwest Region,5750 Highway 78 E,Birmingham,AL,35210,USA,33.54893,-86.641
+PTAF,Manheim Flint,Midwest Region,4109 Holiday Dr,Flint,MI,48507,USA,42.96827,-83.7162
+KCAA,Manheim Kansas City,Midwest Region,3901 N. Great Midwest Dri,Kansas City,MO,64161,USA,39.1586,-94.4509
+SAPL,Manheim Lafayette,Midwest Region,1611 St. Mary St,Scott,LA,70583,USA,30.3341,-92.4952
+MLRA,Manheim Little Rock,Midwest Region,5809 S University Ave,Little Rock,AR,72209,USA,34.69723,-92.3449
+MAAI,Manheim Minneapolis,Midwest Region,8001 Jefferson Highway,Maple Grove,MN,55369,USA,45.1114,-93.4023
+NSAA,Manheim Minnesota,Midwest Region,4908 Valley Industrial Boulevard North,Shakopee,MN,55379,USA,44.79581,-93.4607
+MISS,Manheim Mississippi,Midwest Region,7510 US Highway 49 North,Hattiesburg,MS,39402,USA,31.3337,-89.4192
+NOAA,Manheim New Orleans,Midwest Region,61077 St Tammany Ave,Slidell,LA,70460,USA,30.31496,-89.7796
+OAA,Manheim Ohio,Midwest Region,3905 Jackson Pike,Grove City,OH,43123,USA,39.87887,-83.029
+OMAA,Manheim Omaha,Midwest Region,9201 South 144th St,Omaha,NE,68138,USA,41.16776,-96.1328
+SLAA,Manheim St Louis,Midwest Region,13813 St Charles Rock Ro,Bridgeton,MO,63045,USA,38.7692,-90.4635
+SAPT,Manheim Tulsa,Midwest Region,9101 Frankoma Rd,Sapulpa,OK,74066,USA,36.0322,-96.1012
+NWE,Manheim Albany,Northeast Region,Route 146,Clifton Park,NY,12065,USA,42.86406,-73.7769
+CNCA,Manheim Charlotte,Northeast Region,"287 Concord Pkwy, Suite B",Concord,NC,28027,USA,35.39539,-80.6131
+CINA,Manheim Cincinnati,Northeast Region,4969 Muhlhauser Rd,Hamilton,OH,45011,USA,39.3182,-84.4336
+CLEV,Manheim Cleveland,Northeast Region,4720 Brookpark Road,Cleveland,OH,44134,USA,41.4188,-81.718
+CAAI,Manheim Darlington,Northeast Region,Highway 34 West,Darlington,SC,29532,USA,34.24393,-80.387
+HAA,Manheim Harrisonburg,Northeast Region,3560 Early Rd,Harrisonburg,VA,22801,USA,38.39947,-78.9062
+INDY,Manheim Indianapolis,Northeast Region,3110 South Post Rd,Indianapolis,IN,46239,USA,39.72289,-86.0109
+LOUA,Manheim Louisville,Northeast Region,5425 Highway 31 East,Clarksville,IN,47129,USA,38.3515,-85.7459
+AAAI,Manheim New England,Northeast Region,123 Williams St,North Dighton,MA,2764,USA,41.86992,-71.1642
+AYCA,Manheim North Carolina,Northeast Region,I-95 Exit 105 Bagley Rd,Kenly,NC,27542,USA,35.6183,-78.1367
+SKYA,Manheim NY Metro Skyline,Northeast Region,100 Route 46,Fairfield,NJ,7004,USA,40.92347,-74.3131
+BAA,Manheim Pittsburgh,Northeast Region,21095 Route 19,Evans City,PA,16033,USA,40.756,-80.1175
+SVAA,Manheim Statesville,Northeast Region,I-40 Highway 21,Statesville,NC,28677,USA,35.6919,-80.8712
+WLNC,Manheim Wilmington,Northeast Region,6118 Market St,Wilmington,NC,28405,USA,34.25265,-77.85
+LPHX,Manheim Arizona,West Region,3420 S 48th Street,Phoenix,AZ,85040,USA,33.41578,-111.983
+CADE,Manheim California,West Region,1320 North Tustin Ave,Anaheim,CA,92817,USA,33.86376,-117.841
+FADA,Manheim Central California,West Region,278 North Marks,Fresno,CA,93706,USA,36.73233,-119.844
+DAAE,Manheim El Paso,West Region,485 Coates Dr,El Paso,TX,79932,USA,31.86821,-106.579
+ALOH,Manheim Hawaii,West Region,1001 Ahua St,Honolulu,HI,96819,USA,21.3431,-157.895
+NVAA,Manheim Nevada,West Region,6600 Auction Ln,North Las Vegas,NV,89165,USA,36.2893,-115.012
+ALBA,Manheim New Mexico,West Region,3411 Broadway Boulevard SE,Albuquerque,NM,87105,USA,35.03912,-106.648
+PXAA,Manheim Phoenix,West Region,200 North 83rd Ave,Phoenix,AZ,85043,USA,33.4517,-112.238
+PAA,Manheim Portland,West Region,3000 North Hayden Island,Portland,OR,97217,USA,45.5339,-122.992
+SDAA,Manheim San Diego,West Region,4691 Calle Joven,Oceanside,CA,92057,USA,33.24303,-117.309
+BCAA,Manheim San Francisco Bay,West Region,29900 Auction Way,Hayward,CA,94544,USA,37.6167,-122.067
+SSAA,Manheim Seattle,West Region,19443 77th Ave,Kent,WA,98032,USA,47.42622,-122.239
+TCAA,Manheim Tucson,West Region,7090 South Craycroft,Tucson,AZ,85706,USA,32.3285,-110.868
+UAA,Manheim Utah,West Region,1650 West 500 South,Woods Cross,UT,84087,USA,40.8843,-111.925
