@@ -18,7 +18,7 @@ def home():
 	return render_template('index.html') 
 # load the model
 filename = 'model.pkl'
-clf = pickle.load(open(filename, 'rb'))
+# clf = pickle.load(open(filename, 'rb'))
 
 def clean_data(df):
     new_df = df.dropna(how='any')
