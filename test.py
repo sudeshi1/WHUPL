@@ -46,7 +46,7 @@ def fetchrecords():
         else:
             search_text = request.form['query']
             print(search_text)
-            cur.execute("SELECT model, condition_grade FROM acura WHERE sale_price BETWEEN 25000 AND 70000", [
+            cur.execute("SELECT * FROM acura WHERE sale_price BETWEEN 25000 AND 70000", [
                         search_text])
             modellist = cur.fetchall()
     return jsonify({'htmlresponse': render_template('response.html', modellist=modellist)})
