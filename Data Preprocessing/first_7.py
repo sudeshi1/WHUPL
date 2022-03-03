@@ -18,7 +18,7 @@ def home():
 	return render_template('index.html') 
 # load the model
 filename = 'model.pkl'
-# clf = pickle.load(open(filename, 'rb'))
+clf = pickle.load(open(filename, 'rb'))
 
 def clean_data(df):
     new_df = df.dropna(how='any')
@@ -26,14 +26,9 @@ def clean_data(df):
     cc_df = new_df.drop(columns=['sold_date'])
     cc_df['condition_grade'] = cc_df['condition_grade'].replace(
     {'SL': 0, 'RG': 20, 'PR': 10, 'EC':50, 'CL':40, 'C': 40, 'AV':30, 'A': 30})
-    # convert to categorical using pd.get_dummies
-    cc_df['sold_date_year'] = cc_df['formatted_sold_date'].dt.year
-    cc_df['sold_date_month'] = cc_df['formatted_sold_date'].dt.month
-    drop_df = cc_df.drop(columns=['formatted_sold_date', 'subseries'])
 
-    # df_dummies = pd.get_dummies(drop_df, columns=['sold_date_year', 'sold_date_month'])
+    return cc_df
 
-    return drop_df
 
 def prep_features(result):
     vector = np.zeros(292) # Number of features in my dataset, dependent variables
