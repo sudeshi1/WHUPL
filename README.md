@@ -13,8 +13,6 @@
 
 **Goal**: *Deploy a Heroku app that works as a used car recommendation system. A user can enter the vehicle make, model, color, mileage, and price range, and the system will provide pricing predictions based on the relevant parameters*
 
-
-
 ![Car Dealership](/images/2.gif)
 
 ### Requirements 👩🏻‍💻
@@ -26,6 +24,8 @@
 5. **Visualizations:** *Tableau Desktop*
 6. **Web Framework:** *Flask App, HTML, CSS*
 7. **Deployment App:** *Heroku*
+
+![Coder](/images/3.gif)
 
 ### Procedure 🗒️
 
