@@ -36,13 +36,13 @@
 * Transformed the data on PostgreSQL
 * Loaded the data on Tableau, machine learning models
 
-**Tableau Visualizations**
+**Tableau Visualizations 📊**
 
 **Link to Tableau Visualizations:** *[Tableau Public Link](https://public.tableau.com/app/profile/shreya2793/viz/WHUPL/CarStory)*
 
 ![Tableau Image](/images/1.png)
 
-**Machine Learning**
+**Machine Learning 💹**
 
 * Retrieve the data
 * Preprocess the data
