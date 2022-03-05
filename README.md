@@ -34,15 +34,15 @@
 * Extracted data from Kaggle using pandas DF
 * Cleaned the data using Jupyter Notebook
 * Transformed the data on PostgreSQL
-* Loaded the data on Tableau, machine learning models
+* Loaded the data on Tableau, Heroku, PostgreSQL for Flask App
 
-**Tableau Visualizations 📊**
+#### Tableau Visualizations 📊
 
 **Link to Tableau Visualizations:** *[Tableau Public Link](https://public.tableau.com/app/profile/shreya2793/viz/WHUPL/CarStory)*
 
 ![Tableau Image](/images/1.png)
 
-**Machine Learning 💹**
+#### Machine Learning 💹
 
 * Retrieve the data
 * Preprocess the data
@@ -54,11 +54,12 @@
 
 *And the winner is: __ 🎊*
 
-**Deployment**
+#### Deployment
 
-* Connected the PostgreSQL DB to the Flask App
-* Created dropdowns for car make, model, color for deploying on the final webpage
-* Added in the Machine Learning bit
+* Connected the Heroku PostgreSQL DB to the Flask App
+* Created cascading dropdown filter menu with JavaScript
+    - Used car year, make, model, subseries, color, condition grade and mileage
+* Applied Machine Learning to selected values
 * Deploy the Flask app on Heroku
 
 ### Results ✅
